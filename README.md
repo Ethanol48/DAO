@@ -5,6 +5,8 @@ can vote for or againts this proposes, being their voting power the number of NF
 
 ## More Details
 
+Hosted in vercel here -> https://dao-ethanol48.vercel.app/
+
 I this DAO interacts with two different smart contracts, the first being the [NFT contract collection](https://github.com/Ethanol48/NFT-minting-Collection/) previously made and a very simple NFT Marketplace found in the baackend/contracts folder
 
 DAO contract: 0xC5FD754752A86F9e7631c90655656d96523e5F38
